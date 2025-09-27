@@ -14,6 +14,7 @@ public class Login {
 		driver.navigate().back();
 		driver.navigate().forward();
 		driver.navigate().refresh();
+		// This is simple code 
 		
 	}
 	public static void main(String[] args) {
